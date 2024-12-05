@@ -8,9 +8,9 @@ I specialize in crafting scalable, user-friendly web applications with modern te
 
 ### 🛠️ Tech Stack  
 I work daily with:  
-- **Frontend**: `React`, `Next.js (App Router)`, `Tailwind`, `TypeScript`  
-- **Backend**: `Node.js`, `Postgres`  
-- **Cloud**: `AWS`, `Shopify`  
+- **Frontend**: `React`, `React Native`, `Next.js (App Router)`, `Tailwind`, `Expo`, `TypeScript`, `Remix`  
+- **Backend**: `Node.js`, `MongoDB`, `Postgres`, `Redis`, `Sanity`  
+- **Cloud/Tools**: `AWS`, `Shopify`, `Sentry`  
 
 ---
 
@@ -22,6 +22,6 @@ I work daily with:
 ---
 
 ### 💬 Let's Connect!  
-I’d love to chat about **frontend development**, **React**, **Next.js**, or anything related to web development.  
+I’d love to chat about **frontend development**, **React**, **Next.js**, **React Native**, or anything related to web development.  
 
 Ping me anytime!  
